@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/booknote.iml" filepath="$PROJECT_DIR$/booknote.iml" />
       <module fileurl="file://$PROJECT_DIR$/elasticsearch563/elasticsearch563.iml" filepath="$PROJECT_DIR$/elasticsearch563/elasticsearch563.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaCore/javaCore.iml" filepath="$PROJECT_DIR$/javaCore/javaCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springMVC/springMVC.iml" filepath="$PROJECT_DIR$/springMVC/springMVC.iml" />
     </modules>
   </component>
 </project>
