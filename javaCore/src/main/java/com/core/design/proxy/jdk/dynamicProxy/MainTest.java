@@ -26,6 +26,7 @@ public class MainTest {
 
         String proName = provinceInterface.printProvince("gansu");
         System.out.println("BOB from: "+proName);
-
     }
 }
+
+

@@ -11,5 +11,17 @@
 
     <artifactId>javaCore</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.ericsson.research.trap.transports</groupId>
+            <artifactId>http-server-servlet-2.5</artifactId>
+            <version>1.4.2</version>
+        </dependency>
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>3.0</version>
+        </dependency>
+    </dependencies>
 
 </project>
