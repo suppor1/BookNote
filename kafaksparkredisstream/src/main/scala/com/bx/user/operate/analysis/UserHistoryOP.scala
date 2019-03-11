@@ -13,7 +13,7 @@ import org.json4s.DefaultFormats
 import redis.clients.jedis.Jedis
 
 /**
-  * Created by jiangkai 
+  * Created by superor
   * Date 2019/1/10
   */
 object UserHistoryOP {

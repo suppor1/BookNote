@@ -7,7 +7,7 @@ import org.apache.spark.streaming.dstream.DStream
 import org.apache.spark.streaming.kafka010.{ConsumerStrategies, KafkaUtils, LocationStrategies}
 
 /**
-  * Created by jiangkai 
+  * Created by superor
   * Date 2019/1/10
   */
 object DirectStreamUtil {
